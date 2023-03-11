@@ -20,9 +20,9 @@
       
         <tags>
             
-            <tag> B+树 </tag>
+            <tag> 范式设计 </tag>
             
-            <tag> 范式 </tag>
+            <tag> B+树 </tag>
             
         </tags>
       
@@ -75,8 +75,6 @@
         <tags>
             
             <tag> 索引 </tag>
-            
-            <tag> MySQL </tag>
             
         </tags>
       
